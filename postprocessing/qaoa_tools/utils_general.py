@@ -808,5 +808,3 @@ def renormalize_rows(rows: List[DistributionRow], total_mass: float) -> List[Dis
             bits=r.bits, loc_int=r.loc_int, cut=r.cut
         ))
     return out
-
-# Made with Bob

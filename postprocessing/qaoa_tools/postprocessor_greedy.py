@@ -122,4 +122,3 @@ class HighProbGreedy1Flip(DistributionPostProcessor):
         agg = _renormalize_prob_dict(agg)
         return _aggregate_rows_from_bits_prob(agg, graph)
 
-# Made with Bob

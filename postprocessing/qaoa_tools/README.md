@@ -269,7 +269,7 @@ output_directory/
 
 See the main project LICENSE file.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 Postprocessing methods based on:
 - Chancellor 2017 (Greedy local search)

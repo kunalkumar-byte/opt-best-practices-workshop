@@ -406,5 +406,3 @@ def plot_training_diagnostics(
         "idx_param_nearest": idx_param_nearest,
         "energy_at_nearest_opt_params": e_at_opt_params,
     }
-
-# Made with Bob
